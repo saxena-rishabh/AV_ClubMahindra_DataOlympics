@@ -1,5 +1,5 @@
 # AV_ClubMahindra_DataOlympics
-This repository contains my solution for the [Club Mahindra DataOlympics](https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/) hackathon arranged by AnalyticsVidhya between 3rd May and 5th May, 2019.
+This repository contains my solution for the [Club Mahindra DataOlympics](https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/) hackathon arranged by AnalyticsVidhya between 3rd May and 5th May, 2019.  
 Public Leaderboard | Private Leaderboard  
 ------------------ | -------------------  
 96.7383851345 | 97.8436425029  
